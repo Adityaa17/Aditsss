@@ -17,13 +17,13 @@
         <div class="item-text">
           <div class="item-text__title">Email</div>
           <div class="item-text__main">
-            <p>mail@website.com</p>
+            <p>soloraya@gmail.com</p>
           </div>
         </div>
         <div class="item-text">
           <div class="item-text__title">Whatsapp</div>
           <div class="item-text__main">
-            <p>+628xxxxxxx</p>
+            <p>+62812 345 678</p>
           </div>
         </div>
       </div>
